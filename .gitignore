@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+appsettings.Development.json
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
